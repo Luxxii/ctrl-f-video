@@ -7,3 +7,4 @@ pylint = "*"
 
 [packages]
 youtube-dl = "*"
+numpy = "*"
